@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alihayddarweb
+- 👀 i am currently learning web development
+- 🌱 I want to collaborate as a front-end developer
+- 📫 How to reach me 
+- alihaydarsahin041020@gmail.com
